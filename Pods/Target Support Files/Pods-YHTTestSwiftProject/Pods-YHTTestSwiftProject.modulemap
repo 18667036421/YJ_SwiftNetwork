@@ -1,0 +1,6 @@
+framework module Pods_YHTTestSwiftProject {
+  umbrella header "Pods-YHTTestSwiftProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
